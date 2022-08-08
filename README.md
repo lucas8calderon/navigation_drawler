@@ -19,7 +19,9 @@
 <div align="center">
 
 
-<img src="https://user-images.githubusercontent.com/87238842/177358081-8e09cfb3-7c7d-467c-b2ae-7ef2adff86b8.gif" width="150">
+<img src="https://user-images.githubusercontent.com/87238842/183475278-d5605a52-0bb5-4fb3-88af-aef3e714e160.gif" width="140">
+
+
 
 
 
